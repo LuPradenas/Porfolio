@@ -11,7 +11,7 @@ export const projects = [
       url: "https://www.soloboca.com/",
       image:image1,
       info:
-      "A website build in lockdown to track codvid-19 cases across the world with Chart JS.",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
 
     },
    
@@ -20,7 +20,7 @@ export const projects = [
       url: "https://filter-shop.vercel.app/",
       image:image2,
       info:
-        "A website build in lockdown to track codvid-19 cases across the world with Chart JS.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       
     },
     {
@@ -28,7 +28,7 @@ export const projects = [
       url: "https://snake-game-vert.vercel.app/",
       image:image3,
       info:
-        "A full stack MERN website where you can write your blogs and share with your friends.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       
     },
     {
@@ -36,7 +36,7 @@ export const projects = [
         url: "my-veterinaria.netlify.app/",
         image:image4,
         info:
-          "A full stack MERN website where you can write your blogs and share with your friends.",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         
       },
       {
@@ -44,7 +44,7 @@ export const projects = [
         url: "https://list-tasks.vercel.app",
         image:image5,
         info:
-          "A full stack MERN website where you can write your blogs and share with your friends.",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         
       },
       {
@@ -52,7 +52,7 @@ export const projects = [
         image:image6,
         url: "https://cafeteria.vercel.app/",
         info:
-          "A full stack MERN website where you can write your blogs and share with your friends.",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         
       },
   ];
