@@ -11,7 +11,7 @@ export const projects = [
       url: "https://www.soloboca.com/",
       image:image1,
       info:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "Maquetado y realizacion de pagina web con ayuda de php y tiendanube.",
 
     },
    
@@ -20,7 +20,7 @@ export const projects = [
       url: "https://filter-shop.vercel.app/",
       image:image2,
       info:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Proyecto de practica personal para aprender a filtrar informacion.",
       
     },
     {
@@ -28,7 +28,7 @@ export const projects = [
       url: "https://snake-game-vert.vercel.app/",
       image:image3,
       info:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Clasico juego de Snake hecho en React.",
       
     },
     {
@@ -36,7 +36,7 @@ export const projects = [
         url: "my-veterinaria.netlify.app/",
         image:image4,
         info:
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "Proyecto final de aprender programando",
         
       },
       {
@@ -44,7 +44,7 @@ export const projects = [
         url: "https://list-tasks.vercel.app",
         image:image5,
         info:
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "Proyecto personal donde realice una todo list a modo de practica",
         
       },
       {
@@ -52,7 +52,7 @@ export const projects = [
         image:image6,
         url: "https://cafeteria.vercel.app/",
         info:
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "Maquetado web generico para cafeteria",
         
       },
   ];

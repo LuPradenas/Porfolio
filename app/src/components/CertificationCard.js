@@ -14,7 +14,7 @@ export default class ProjectCards extends Component {
           <div className="container px-5 md:py-24 sm:py-32 lg:py-24 py-32 mx-auto">
             <h1 class="text-5xl font-medium title-font text-center mt-8 mb-8">Certificaciones</h1>
             <p class="lg:w-2/3 mt-8 font-normal mx-auto leading-relaxed text-center text-base my-8 ">
-               Estos son algunos de los proyectos que hice
+               Estos son las certificaciones que obtuve
               </p>
               <div className="grid grid-cols-3 gap-6 sm:gap-8">
                 {certification.map((obj, i) => (
