@@ -25,7 +25,7 @@ export default class ProjectCards extends Component {
                     <div className="border border-gray-200 rounded-lg project-card overflow-hidden">
                       <div
                         className="card-image " >
-                        <img src={obj.image}/>
+                        <img src={obj.image} alt="img"/>
                       </div>
                       <div className="p-6">
                         <h2 className="text-lg font-medium title-font mb-4">

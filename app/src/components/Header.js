@@ -65,7 +65,7 @@ export default class Header extends Component {
             duration={100}
             // onSetActive={this.handleSetActive}
           >
-            <a className="flex title-font font-medium items-center md:mb-0">
+            <a href="/" className="flex title-font font-medium items-center md:mb-0">
               <span className="ml-3 text-xl">Luciana Pradenas</span>
             </a>
           </Link>
